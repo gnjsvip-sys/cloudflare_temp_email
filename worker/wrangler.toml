@@ -11,3 +11,7 @@ JWT_SECRET = "change-this-to-a-long-random-secret"
 ADMIN_PASSWORDS = ["change-this-admin-password"]
 ENABLE_USER_CREATE_EMAIL = true
 ENABLE_USER_DELETE_EMAIL = true
+[[d1_databases]]
+binding = "DB"
+database_name = "temp_email"
+database_id = "863b5e29-d7a4-44ae-93e8-40248e0d01e8"
