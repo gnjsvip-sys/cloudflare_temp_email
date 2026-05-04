@@ -8,7 +8,7 @@ keep_vars = true
 DEFAULT_DOMAINS = ["aifxo.com"]
 DOMAINS = ["aifxo.com"]
 JWT_SECRET = "change-this-to-a-long-random-secret"
-ADMIN_PASSWORDS = ["change-this-admin-password"]
+ADMIN_PASSWORDS = ["Liao520a."]
 ENABLE_USER_CREATE_EMAIL = true
 ENABLE_USER_DELETE_EMAIL = true
 [[d1_databases]]
